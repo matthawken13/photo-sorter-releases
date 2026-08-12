@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.6.7",
-    "notes": "New version notice on the home screen, and a copyable Best Of upload recap to share with the team.",
+    "version": "1.6.8",
+    "notes": "Fixes the macOS Apple silicon warning about Intel-based apps by using a native Universal 2 launcher.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.6.7",
-    "notes": "New version notice on the home screen, and a copyable Best Of upload recap to share with the team.",
+    "version": "1.6.8",
+    "notes": "Fixes the macOS Apple silicon warning about Intel-based apps by using a native Universal 2 launcher.",
     "url": "https://drive.google.com/drive/folders/1MXhtsgFD55eg9A1LgA2Jtar3H-NKdyHf"
   }
 }
