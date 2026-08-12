@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.6.8",
-    "notes": "Fixes the macOS Apple silicon warning about Intel-based apps by using a native Universal 2 launcher.",
+    "version": "1.6.9",
+    "notes": "Adds Google Drive upload-complete confirmation, a finish-and-clear-session button, and a shorter Best Of recap that only lists new files added this session.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.6.8",
-    "notes": "Fixes the macOS Apple silicon warning about Intel-based apps by using a native Universal 2 launcher.",
+    "version": "1.6.9",
+    "notes": "Adds Google Drive upload-complete confirmation, a finish-and-clear-session button, and a shorter Best Of recap that only lists new files added this session.",
     "url": "https://drive.google.com/drive/folders/1MXhtsgFD55eg9A1LgA2Jtar3H-NKdyHf"
   }
 }
