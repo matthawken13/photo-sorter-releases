@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.6.9",
-    "notes": "Adds Google Drive upload-complete confirmation, a finish-and-clear-session button, and a shorter Best Of recap that only lists new files added this session.",
+    "version": "1.7.1",
+    "notes": "Fixes Mac launches opening two app windows/tabs. Also includes the v1.7.0 robustness fixes for broken video thumbnails, RAW keepers in SmugMug uploads, isolated SmugMug album failures, trip-leader export matching, and safer OAuth token parsing.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.6.9",
-    "notes": "Adds Google Drive upload-complete confirmation, a finish-and-clear-session button, and a shorter Best Of recap that only lists new files added this session.",
-    "url": "https://drive.google.com/drive/folders/1MXhtsgFD55eg9A1LgA2Jtar3H-NKdyHf"
+    "version": "1.7.1",
+    "notes": "Fixes Mac launches opening two app windows/tabs. Also includes the v1.7.0 robustness fixes for broken video thumbnails, RAW keepers in SmugMug uploads, isolated SmugMug album failures, trip-leader export matching, and safer OAuth token parsing.",
+    "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
