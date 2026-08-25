@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.7.1",
-    "notes": "Fixes Mac launches opening two app windows/tabs. Also includes the v1.7.0 robustness fixes for broken video thumbnails, RAW keepers in SmugMug uploads, isolated SmugMug album failures, trip-leader export matching, and safer OAuth token parsing.",
+    "version": "1.7.2",
+    "notes": "Improves video playback stability for larger or awkward video files. Videos now load more gently, stream in safer chunks, and show a clear fallback if browser playback stalls.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.7.1",
-    "notes": "Fixes Mac launches opening two app windows/tabs. Also includes the v1.7.0 robustness fixes for broken video thumbnails, RAW keepers in SmugMug uploads, isolated SmugMug album failures, trip-leader export matching, and safer OAuth token parsing.",
+    "version": "1.7.2",
+    "notes": "Improves video playback stability for larger or awkward video files. Videos now load more gently, stream in safer chunks, and show a clear fallback if browser playback stalls.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
