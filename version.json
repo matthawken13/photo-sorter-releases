@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.7.2",
-    "notes": "Improves video playback stability for larger or awkward video files. Videos now load more gently, stream in safer chunks, and show a clear fallback if browser playback stalls.",
+    "version": "1.7.6",
+    "notes": "Improves Best Of folder handling: Area is cleaned up, the shared template folder is used by default, and folders from one destination no longer appear in another.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.7.2",
-    "notes": "Improves video playback stability for larger or awkward video files. Videos now load more gently, stream in safer chunks, and show a clear fallback if browser playback stalls.",
+    "version": "1.7.6",
+    "notes": "Improves Best Of folder handling: Area is cleaned up, the shared template folder is used by default, and folders from one destination no longer appear in another.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
