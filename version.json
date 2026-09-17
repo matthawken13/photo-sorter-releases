@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.7.6",
-    "notes": "Improves Best Of folder handling: Area is cleaned up, the shared template folder is used by default, and folders from one destination no longer appear in another.",
+    "version": "1.7.7",
+    "notes": "Restores BBH Best Of destination selection after the Drive root regression.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.7.6",
-    "notes": "Improves Best Of folder handling: Area is cleaned up, the shared template folder is used by default, and folders from one destination no longer appear in another.",
+    "version": "1.7.7",
+    "notes": "Restores BBH Best Of destination selection after the Drive root regression.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
