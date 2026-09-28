@@ -1,12 +1,12 @@
 {
   "BBH": {
     "version": "1.7.8",
-    "notes": "Video previews can retry without restarting. Startup and upload setup messages are clearer.",
+    "notes": "Fixed saved sessions whose source folder moved or was disconnected. The app now explains the problem instead of showing a blank review area.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
     "version": "1.7.8",
-    "notes": "Video previews can retry without restarting. Startup and upload setup messages are clearer.",
+    "notes": "Fixed saved sessions whose source folder moved or was disconnected. The app now explains the problem instead of showing a blank review area.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
