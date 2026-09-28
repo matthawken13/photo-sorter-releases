@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.7.7",
-    "notes": "Restores BBH Best Of destination selection after the Drive root regression.",
+    "version": "1.7.8",
+    "notes": "Video previews can retry without restarting. Startup and upload setup messages are clearer.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.7.7",
-    "notes": "Restores BBH Best Of destination selection after the Drive root regression.",
+    "version": "1.7.8",
+    "notes": "Video previews can retry without restarting. Startup and upload setup messages are clearer.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
