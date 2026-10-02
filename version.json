@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.7.9",
-    "notes": "Fixed Drive report decompression errors and removed the unused SmugMug upload flow.",
+    "version": "1.7.11",
+    "notes": "Videos no longer stop after about 10 seconds. If a video pauses to load, the app now reconnects by itself and carries on from the same spot.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.7.9",
-    "notes": "Fixed Drive report decompression errors and removed the unused SmugMug upload flow.",
+    "version": "1.7.11",
+    "notes": "Videos no longer stop after about 10 seconds. If a video pauses to load, the app now reconnects by itself and carries on from the same spot.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
