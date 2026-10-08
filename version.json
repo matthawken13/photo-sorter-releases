@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.8.1",
-    "notes": "Videos keep playing during long reviews, and uploads carry on by themselves if the internet drops. On a Mac the app now opens in its own window instead of your web browser: install it by dragging it onto Applications.",
+    "version": "1.8.2",
+    "notes": "Choose existing trip leaders from a dropdown. Session setup now asks only for the Best Of destination.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.8.1",
-    "notes": "Videos keep playing during long reviews, and uploads carry on by themselves if the internet drops. On a Mac the app now opens in its own window instead of your web browser: install it by dragging it onto Applications.",
+    "version": "1.8.2",
+    "notes": "Choose existing trip leaders from a dropdown. Session setup now asks only for the Best Of destination.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
