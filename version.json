@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.8.2",
-    "notes": "Choose existing trip leaders from a dropdown. Session setup now asks only for the Best Of destination.",
+    "version": "1.8.3",
+    "notes": "Best Of folders added directly in Drive now work per destination, including when only the Video or Images folder exists. The preview back and forward buttons work again.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.8.2",
-    "notes": "Choose existing trip leaders from a dropdown. Session setup now asks only for the Best Of destination.",
+    "version": "1.8.3",
+    "notes": "Best Of folders added directly in Drive now work per destination, including when only the Video or Images folder exists. The preview back and forward buttons work again.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
