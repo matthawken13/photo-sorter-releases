@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.9.0",
-    "notes": "Save your sorted folder to an SSD while offline, then use Open a sorted folder to upload later on Home. Your Best Of choices and trip leaders are restored for Google Drive upload, including on another laptop.",
+    "version": "1.9.1",
+    "notes": "Uploads now use the current filenames inside Best Of, even when Gallery keeps older names. Reopened sorted folders refresh renamed copies while keeping your choices and upload history.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.9.0",
-    "notes": "Save your sorted folder to an SSD while offline, then use Open a sorted folder to upload later on Home. Your Best Of choices and trip leaders are restored for Google Drive upload, including on another laptop.",
+    "version": "1.9.1",
+    "notes": "Uploads now use the current filenames inside Best Of, even when Gallery keeps older names. Reopened sorted folders refresh renamed copies while keeping your choices and upload history.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
