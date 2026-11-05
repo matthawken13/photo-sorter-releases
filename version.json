@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.9.1",
-    "notes": "Uploads now use the current filenames inside Best Of, even when Gallery keeps older names. Reopened sorted folders refresh renamed copies while keeping your choices and upload history.",
+    "version": "1.9.2",
+    "notes": "The Home button now reads Open A Sorted Folder To Upload, with its explanation shown on hover. Bank is capitalised in the Best Of Bank button and report.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.9.1",
-    "notes": "Uploads now use the current filenames inside Best Of, even when Gallery keeps older names. Reopened sorted folders refresh renamed copies while keeping your choices and upload history.",
+    "version": "1.9.2",
+    "notes": "The Home button now reads Open A Sorted Folder To Upload, with its explanation shown on hover. Bank is capitalised in the Best Of Bank button and report.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
