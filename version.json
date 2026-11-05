@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.8.5",
-    "notes": "Choose an existing trip leader to return straight to Nice pick, without an extra confirmation click. Trip leader folder caching is included.",
+    "version": "1.9.0",
+    "notes": "Save your sorted folder to an SSD while offline, then use Open a sorted folder to upload later on Home. Your Best Of choices and trip leaders are restored for Google Drive upload, including on another laptop.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.8.5",
-    "notes": "Choose an existing trip leader to return straight to Nice pick, without an extra confirmation click. Trip leader folder caching is included.",
+    "version": "1.9.0",
+    "notes": "Save your sorted folder to an SSD while offline, then use Open a sorted folder to upload later on Home. Your Best Of choices and trip leaders are restored for Google Drive upload, including on another laptop.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
