@@ -1,12 +1,12 @@
 {
   "BBH": {
-    "version": "1.9.2",
-    "notes": "The Home button now reads Open A Sorted Folder To Upload, with its explanation shown on hover. Bank is capitalised in the Best Of Bank button and report.",
+    "version": "1.9.3",
+    "notes": "Open older sorted SSD folders with Video or Videos branches, recover existing categories and trip leaders, and review any unallocated Best Of clips before uploading.",
     "url": "https://drive.google.com/drive/folders/1coWkUsPco14ZDcrXffa7Kgp1Ig_CDSQc"
   },
   "WW": {
-    "version": "1.9.2",
-    "notes": "The Home button now reads Open A Sorted Folder To Upload, with its explanation shown on hover. Bank is capitalised in the Best Of Bank button and report.",
+    "version": "1.9.3",
+    "notes": "Open older sorted SSD folders with Video or Videos branches, recover existing categories and trip leaders, and review any unallocated Best Of clips before uploading.",
     "url": "https://drive.google.com/drive/folders/116jQaUod54q9dzS6ReB5gwc1fvzkX9eP"
   }
 }
